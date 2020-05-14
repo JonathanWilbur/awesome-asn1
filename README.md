@@ -49,3 +49,4 @@
   - This document gives guidance on how to transition from the withdrawn X.208 definition of ASN.1 to the up-to-date X.680-series ASN.1
 - [OSS Nokalva JSON-to-ASN.1 and JSON-Schema-to-ASN.1 Translator](https://asn1.io/json2asn/default.aspx)
 - [Hacker News Thread on ASN.1](https://news.ycombinator.com/item?id=8871604)
+- [Protocol to use ASN.1 & ECN in ISO/IEC 7816-4](https://www.itu.int/en/ITU-T/asn1/Documents/ASN1+ECN-in-7816-4.pdf)
