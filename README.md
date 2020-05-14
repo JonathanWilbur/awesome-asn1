@@ -37,3 +37,15 @@
 | Codec | Language | Link |
 |-------|----------|------|
 | OER   | Python   | [Link](https://github.com/eerimoq/asn1tools/blob/master/asn1tools/codecs/oer.py) |
+
+## ASN.1 Compilers
+
+- [PyCrate](https://github.com/P1sec/pycrate)
+- [asn1c](http://lionet.info/asn1c/compiler.html) ([GitHub Repository](https://github.com/vlm/asn1c))
+
+## Miscellaneous
+
+- [IETF RFC 6025 - ASN.1 Translation](https://tools.ietf.org/html/rfc6025)
+  - This document gives guidance on how to transition from the withdrawn X.208 definition of ASN.1 to the up-to-date X.680-series ASN.1
+- [OSS Nokalva JSON-to-ASN.1 and JSON-Schema-to-ASN.1 Translator](https://asn1.io/json2asn/default.aspx)
+- [Hacker News Thread on ASN.1](https://news.ycombinator.com/item?id=8871604)
