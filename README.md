@@ -34,12 +34,16 @@
 
 ## Codec Implementations
 
-| Codec | Language | Link |
-|-------|----------|------|
-| OER   | Python   | [Link](https://github.com/eerimoq/asn1tools/blob/master/asn1tools/codecs/oer.py) |
+| Codec | Language | Link | Notes |
+|-------|----------|------|-------|
+| BER   | C        | [Link](https://github.com/openldap/openldap/tree/master/libraries/liblber) | OpenLDAP's Implementation |
+| DER   | C        | [Link](https://github.com/openssl/openssl/tree/master/crypto/asn1) | OpenSSL's Implementation |
+| OER   | Python   | [Link](https://github.com/eerimoq/asn1tools/blob/master/asn1tools/codecs/oer.py) | |
 
 ## ASN.1 Compilers
 
+- [OSS Nokalva's ASN.1 Compilers](https://www.oss.com/asn1/products/asn1-products.html)
+- [Objective System's ASN.1-to-C Compiler](https://www.obj-sys.com/products/asn1c/index.php)
 - [PyCrate](https://github.com/P1sec/pycrate)
 - [asn1c](http://lionet.info/asn1c/compiler.html) ([GitHub Repository](https://github.com/vlm/asn1c))
 
